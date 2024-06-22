@@ -1,6 +1,5 @@
 # School Bus Monitoring and Management System
 This project is part of the Introduction to Software Engineering course under my bachelor's degree in software engineering
-Understood. Since you have not implemented the project yet, and you are only documenting the requirements and use case model, the README file will reflect that. Here is a sample README file for the School Bus Monitoring and Management System project:
 
 ## Project Overview
 The School Bus Monitoring and Management System (SBMS) is a proposed system that aims to improve the efficiency of bus transportation and increase the satisfaction of parents for schools in Riyadh. This project focuses on specifying the requirements and UML models for the SBMS system. 
